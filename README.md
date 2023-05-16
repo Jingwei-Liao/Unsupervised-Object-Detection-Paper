@@ -1,4 +1,12 @@
 # Unsupervised-Object-Detection
+
+Toward Unsupervised, Multi-Object Discovery in Large-Scale Image Collections
+[
+  [ECCV 2020](https://arxiv.org/pdf/2007.02662.pdf)
+  |
+  [code](https://github.com/huyvvo/rOSD)
+]
+
 Large-Scale Unsupervised Object Discovery
 [
   [NIPS 2021](https://arxiv.org/pdf/2106.06650.pdf)
