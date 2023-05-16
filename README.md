@@ -8,11 +8,10 @@ Localizing Objects with Self-Supervised Transformers and no Labels
 
 TokenCut: Segmenting Objects in Images and Videos with Self-supervised Transformer and Normalized Cut
 [
-  [CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Self-Supervised_Transformers_for_Unsupervised_Object_Discovery_Using_Normalized_Cut_CVPR_2022_paper.pdf)
+  [CVPR 2022](https://arxiv.org/pdf/2209.00383.pdf)
   |
   [code](https://github.com/YangtaoWANG95/TokenCut)
 ]
-https://arxiv.org/pdf/2209.00383.pdf
 
 Cut and Learn for Unsupervised Object Detection and Instance Segmentation
 [
