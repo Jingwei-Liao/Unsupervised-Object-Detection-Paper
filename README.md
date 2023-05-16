@@ -1,4 +1,11 @@
 # Unsupervised-Object-Detection
+Large-Scale Unsupervised Object Discovery
+[
+  [NIPS](https://arxiv.org/pdf/2106.06650.pdf)
+  |
+  [code](https://github.com/huyvvo/LOD)
+]
+
 Localizing Objects with Self-Supervised Transformers and no Labels
 [
   [BMVC 2021](https://arxiv.org/pdf/2109.14279.pdf)
