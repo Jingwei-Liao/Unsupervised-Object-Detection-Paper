@@ -6,12 +6,21 @@ Localizing Objects with Self-Supervised Transformers and no Labels
   [code](https://github.com/valeoai/LOST)
 ]
 
-Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization
+TokenCut: Segmenting Objects in Images and Videos with Self-supervised Transformer and Normalized Cut
 [
-  [CVPR 2022](https://arxiv.org/pdf/2205.07839.pdf)
+  [CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Self-Supervised_Transformers_for_Unsupervised_Object_Discovery_Using_Normalized_Cut_CVPR_2022_paper.pdf)
   |
-  [code](https://github.com/lukemelas/deep-spectral-segmentation)
+  [code](https://github.com/YangtaoWANG95/TokenCut)
 ]
+https://arxiv.org/pdf/2209.00383.pdf
+
+Cut and Learn for Unsupervised Object Detection and Instance Segmentation
+[
+  [CVPR 2023](https://arxiv.org/pdf/2301.11320.pdf)
+  |
+  [code](https://github.com/facebookresearch/CutLER)
+]
+
 
 # Unsupervised-Semantic-Segmentation
 Self-Supervised Learning of Object Parts for Semantic Segmentation
@@ -20,6 +29,21 @@ Self-Supervised Learning of Object Parts for Semantic Segmentation
   |
   [code](https://github.com/MkuuWaUjinga/leopart)
 ]
+
+Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization
+[
+  [CVPR 2022](https://arxiv.org/pdf/2205.07839.pdf)
+  |
+  [code](https://github.com/lukemelas/deep-spectral-segmentation)
+]
+
+FreeSOLO: Learning to Segment Objects without Annotations
+[
+  [CVPR 2022](https://arxiv.org/pdf/2202.12181.pdf)
+  |
+  [code](https://github.com/NVlabs/FreeSOLO)
+]
+
 
 # Self-Supervision
 Emerging Properties in Self-Supervised Vision Transformers (DINO)
