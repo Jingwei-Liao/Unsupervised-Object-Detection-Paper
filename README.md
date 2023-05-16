@@ -1,4 +1,4 @@
-# Unsupervised-Object-Detection-Paper
+# Unsupervised-Object-Detection
 Localizing Objects with Self-Supervised Transformers and no Labels
 [
   [BMVC 2021](https://arxiv.org/pdf/2109.14279.pdf)
@@ -6,12 +6,20 @@ Localizing Objects with Self-Supervised Transformers and no Labels
   [code](https://github.com/valeoai/LOST)
 ]
 
-[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
+Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization
+[
+  [CVPR 2022](https://arxiv.org/pdf/2205.07839.pdf)
+  |
+  [code](https://github.com/lukemelas/deep-spectral-segmentation)
+]
 
-[Link Text](https://example.com){:target="_blank"}
-
-<a href="https://example.com" target="_blank">Link Text</a>
-
+# Unsupervised-Semantic-Segmentation
+Self-Supervised Learning of Object Parts for Semantic Segmentation
+[
+  [CVPR 2022](https://arxiv.org/pdf/2204.13101.pdf)
+  |
+  [code](https://github.com/MkuuWaUjinga/leopart)
+]
 
 # Self-Supervision
 Emerging Properties in Self-Supervised Vision Transformers (DINO)
