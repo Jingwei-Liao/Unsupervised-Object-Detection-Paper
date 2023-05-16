@@ -6,7 +6,8 @@ Localizing Objects with Self-Supervised Transformers and no Labels
   [code](https://github.com/valeoai/LOST)
 ]
 
-<a href="https://arxiv.org/pdf/2109.14279.pdf" target="_blank" >paper</a>
+[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
+
 
 # Self-Supervision
 Emerging Properties in Self-Supervised Vision Transformers (DINO)
