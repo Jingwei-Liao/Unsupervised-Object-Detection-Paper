@@ -1,4 +1,12 @@
 # Unsupervised-Object-Detection
+
+Unsupervised Image Matching and Object Discovery as Optimization
+[
+  [CVPR 2019](https://arxiv.org/pdf/1904.03148.pdf)
+  |
+  [OSD](https://github.com/huyvvo/OSD)
+]
+
 Toward Unsupervised, Multi-Object Discovery in Large-Scale Image Collections
 [
   [ECCV 2020](https://arxiv.org/pdf/2007.02662.pdf)
