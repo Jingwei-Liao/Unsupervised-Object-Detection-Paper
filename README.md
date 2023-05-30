@@ -46,7 +46,7 @@ DETReg: Unsupervised Pretraining with Region Priors for Object Detection
 [
   [CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Bar_DETReg_Unsupervised_Pretraining_With_Region_Priors_for_Object_Detection_CVPR_2022_paper.pdf)
   |
-  [code]()
+  [DETReg](https://www.amirbar.net/detreg/)
 ]
 
 Cut and Learn for Unsupervised Object Detection and Instance Segmentation
@@ -93,4 +93,12 @@ DINOv2: Learning Robust Visual Features without Supervision
   [arxiv 2023](https://arxiv.org/pdf/2304.07193.pdf)
   |
   [DINOv2](https://github.com/facebookresearch/dinov2)
+]
+
+# Object-Detection
+End-to-End Object Detection with Transformers
+[
+  [ECCV 2020](https://arxiv.org/pdf/2005.12872.pdf)
+  |
+  [DETR](https://github.com/facebookresearch/detr)
 ]
