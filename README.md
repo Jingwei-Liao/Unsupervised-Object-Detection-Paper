@@ -42,6 +42,13 @@ TokenCut: Segmenting Objects in Images and Videos with Self-supervised Transform
   [TokenCut](https://github.com/YangtaoWANG95/TokenCut)
 ]
 
+DETReg: Unsupervised Pretraining with Region Priors for Object Detection
+[
+  [CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Bar_DETReg_Unsupervised_Pretraining_With_Region_Priors_for_Object_Detection_CVPR_2022_paper.pdf)
+  |
+  [code]()
+]
+
 Cut and Learn for Unsupervised Object Detection and Instance Segmentation
 [
   [CVPR 2023](https://arxiv.org/pdf/2301.11320.pdf)
