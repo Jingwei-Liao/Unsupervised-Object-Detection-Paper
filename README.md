@@ -117,3 +117,11 @@ Deformable DETR: Deformable Transformers for End-to-End Object Detection
   |
   [DDETR](https://github.com/fundamentalvision/Deformable-DETR)
 ]
+
+# Understanding Compressed Image Feature
+Towards Image Understanding from Deep Compression without Decoding
+[
+  [ICLR 2018](https://arxiv.org/pdf/1803.06131.pdf)
+  |
+  [None]
+]
