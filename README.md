@@ -49,6 +49,13 @@ DETReg: Unsupervised Pretraining with Region Priors for Object Detection
   [DETReg](https://www.amirbar.net/detreg/)
 ]
 
+UP-DETR: Unsupervised Pre-training for Object Detection with Transformers
+[
+  [CVPR 2021](https://arxiv.org/pdf/2011.09094.pdf)
+  |
+  [UP-DETR](https://github.com/dddzg/up-detr)
+]
+
 Cut and Learn for Unsupervised Object Detection and Instance Segmentation
 [
   [CVPR 2023](https://arxiv.org/pdf/2301.11320.pdf)
@@ -101,4 +108,11 @@ End-to-End Object Detection with Transformers
   [ECCV 2020](https://arxiv.org/pdf/2005.12872.pdf)
   |
   [DETR](https://github.com/facebookresearch/detr)
+]
+
+Deformable DETR: Deformable Transformers for End-to-End Object Detection
+[
+  [ICLR 2021](https://arxiv.org/pdf/2010.04159.pdf)
+  |
+  [DDETR](https://github.com/fundamentalvision/Deformable-DETR)
 ]
