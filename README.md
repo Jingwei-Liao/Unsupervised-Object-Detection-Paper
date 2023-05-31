@@ -35,6 +35,14 @@ Localizing Objects with Self-Supervised Transformers and no Labels
   [LOST](https://github.com/valeoai/LOST)
 ]
 
+
+UP-DETR: Unsupervised Pre-training for Object Detection with Transformers
+[
+  [CVPR 2021](https://arxiv.org/pdf/2011.09094.pdf)
+  |
+  [UP-DETR](https://github.com/dddzg/up-detr)
+]
+
 TokenCut: Segmenting Objects in Images and Videos with Self-supervised Transformer and Normalized Cut
 [
   [CVPR 2022](https://arxiv.org/pdf/2209.00383.pdf)
@@ -47,13 +55,6 @@ DETReg: Unsupervised Pretraining with Region Priors for Object Detection
   [CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Bar_DETReg_Unsupervised_Pretraining_With_Region_Priors_for_Object_Detection_CVPR_2022_paper.pdf)
   |
   [DETReg](https://www.amirbar.net/detreg/)
-]
-
-UP-DETR: Unsupervised Pre-training for Object Detection with Transformers
-[
-  [CVPR 2021](https://arxiv.org/pdf/2011.09094.pdf)
-  |
-  [UP-DETR](https://github.com/dddzg/up-detr)
 ]
 
 Cut and Learn for Unsupervised Object Detection and Instance Segmentation
