@@ -159,3 +159,9 @@ Learning from the CNN-based Compressed Domain
 [
   [WACV 2022](https://openaccess.thecvf.com/content/WACV2022/papers/Wang_Learning_From_the_CNN-Based_Compressed_Domain_WACV_2022_paper.pdf)
 ]
+
+Unified Architecture Adaptation for Compressed Domain Semantic Inference
+[
+  [TCSVT 2023](https://ieeexplore.ieee.org/abstract/document/10029924)
+]
+
