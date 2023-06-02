@@ -132,3 +132,10 @@ Semantics-to-Signal Scalable Image Compression with Learned Revertible Represent
   |
   [None]
 ]
+
+Task-Driven Semantic Coding via Reinforcement Learning
+[
+  [TIP 2021](https://ieeexplore.ieee.org/abstract/document/9472999)
+  |
+  [None]
+]
