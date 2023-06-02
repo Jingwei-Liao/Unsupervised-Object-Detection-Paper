@@ -125,3 +125,10 @@ Towards Image Understanding from Deep Compression without Decoding
   |
   [None]
 ]
+
+Semantics-to-Signal Scalable Image Compression with Learned Revertible Representations
+[
+  [IJCV 2021](https://link.springer.com/article/10.1007/s11263-021-01491-7)
+  |
+  [None]
+]
