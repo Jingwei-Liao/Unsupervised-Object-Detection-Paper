@@ -139,3 +139,23 @@ Task-Driven Semantic Coding via Reinforcement Learning
   |
   [None]
 ]
+
+Towards Coding For Human And Machine Vision: A Scalable Image Coding Approach
+[
+  [ICME 2021]
+]
+
+End-to-End Learning of Compressible Features
+[
+  [ICIP 2021]
+]
+
+Learned Image Compression for Machine Perception
+[
+  [arxiv 2021]
+]
+
+Learning from the CNN-based Compressed Domain
+[
+  [WACV 2022](https://openaccess.thecvf.com/content/WACV2022/papers/Wang_Learning_From_the_CNN-Based_Compressed_Domain_WACV_2022_paper.pdf)
+]
