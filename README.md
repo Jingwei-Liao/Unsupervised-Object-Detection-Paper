@@ -87,6 +87,12 @@ FreeSOLO: Learning to Segment Objects without Annotations
   [FreeSOLO](https://github.com/NVlabs/FreeSOLO)
 ]
 
+Open Vocabulary Semantic Segmentation With Patch Aligned Contrastive Learning
+[
+  [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Mukhoti_Open_Vocabulary_Semantic_Segmentation_With_Patch_Aligned_Contrastive_Learning_CVPR_2023_paper.pdf)
+  |
+  [None]
+]
 
 # Self-Supervision
 Emerging Properties in Self-Supervised Vision Transformers
