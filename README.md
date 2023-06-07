@@ -64,6 +64,19 @@ Cut and Learn for Unsupervised Object Detection and Instance Segmentation
   [CutLER](https://github.com/facebookresearch/CutLER)
 ]
 
+Unsupervised Object Localization: Observing the Background to Discover Objects
+[
+  [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Simeoni_Unsupervised_Object_Localization_Observing_the_Background_To_Discover_Objects_CVPR_2023_paper.pdf)
+  |
+  [FOUND](https://github.com/valeoai/FOUND)
+]
+
+Bridging the Gap to Real-World Object-Centric Learning
+[
+  [ICLR 2023](https://arxiv.org/pdf/2209.14860.pdf)
+  |
+  [OCLF](https://github.com/amazon-science/object-centric-learning-framework)
+]
 
 # Unsupervised-Semantic-Segmentation
 Self-Supervised Learning of Object Parts for Semantic Segmentation
@@ -87,9 +100,37 @@ FreeSOLO: Learning to Segment Objects without Annotations
   [FreeSOLO](https://github.com/NVlabs/FreeSOLO)
 ]
 
+Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization
+[
+  [CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Melas-Kyriazi_Deep_Spectral_Methods_A_Surprisingly_Strong_Baseline_for_Unsupervised_Semantic_CVPR_2022_paper.pdf)
+  |
+  [code](https://github.com/lukemelas/deep-spectral-segmentation)
+]
+
 Open Vocabulary Semantic Segmentation With Patch Aligned Contrastive Learning
 [
   [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Mukhoti_Open_Vocabulary_Semantic_Segmentation_With_Patch_Aligned_Contrastive_Learning_CVPR_2023_paper.pdf)
+  |
+  [None]
+]
+
+Unsupervised Semantic Segmentation with Self-supervised Object-centric Representations
+[
+  [ICLR 2023](https://arxiv.org/pdf/2207.05027.pdf)
+  |
+  [COMUS]()
+]
+
+Discovering Object Masks with Transformers for Unsupervised Semantic Segmentation
+[
+  [arxiv 2022](https://arxiv.org/pdf/2206.06363.pdf)
+  |
+  [MaskDistill](https://github.com/wvangansbeke/MaskDistill)
+]
+
+Exemplar-FreeSOLO: Enhancing Unsupervised Instance Segmentation with Exemplars
+[
+  [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Ishtiak_Exemplar-FreeSOLO_Enhancing_Unsupervised_Instance_Segmentation_With_Exemplars_CVPR_2023_paper.pdf)
   |
   [None]
 ]
