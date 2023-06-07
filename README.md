@@ -78,6 +78,13 @@ Bridging the Gap to Real-World Object-Centric Learning
   [OCLF](https://github.com/amazon-science/object-centric-learning-framework)
 ]
 
+Learning to Discover and Detect Objects
+[
+  [NIPS 2022](https://arxiv.org/pdf/2210.10774.pdf)
+  |
+  [RNCDL](https://github.com/vlfom/RNCDL)
+]
+
 # Unsupervised-Semantic-Segmentation
 Self-Supervised Learning of Object Parts for Semantic Segmentation
 [
@@ -212,3 +219,10 @@ Unified Architecture Adaptation for Compressed Domain Semantic Inference
   [TCSVT 2023](https://ieeexplore.ieee.org/abstract/document/10029924)
 ]
 
+# Language-Vision
+Automatic dense annotation of large-vocabulary sign language videos
+[
+  [ECCV 2022](https://arxiv.org/pdf/2208.02802.pdf)
+  |
+  []()
+]
