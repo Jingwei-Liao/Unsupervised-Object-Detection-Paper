@@ -85,6 +85,20 @@ Learning to Discover and Detect Objects
   [RNCDL](https://github.com/vlfom/RNCDL)
 ]
 
+MOST: Multiple Object localization with Self-supervised Transformers for object discovery
+[
+  [arxiv 2023](https://arxiv.org/pdf/2304.05387.pdf)
+  |
+  [None]
+]
+
+MOVE: Unsupervised Movable Object Segmentation and Detection
+[
+  [NIPS 2022](https://arxiv.org/pdf/2210.07920.pdf)
+  |
+  [MOVE](https://github.com/adambielski/move-seg)
+]
+
 # Unsupervised-Semantic-Segmentation
 Self-Supervised Learning of Object Parts for Semantic Segmentation
 [
