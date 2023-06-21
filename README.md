@@ -240,3 +240,11 @@ Automatic dense annotation of large-vocabulary sign language videos
   |
   []()
 ]
+
+# Generative Pre-Training
+Improving Language Understanding by Generative Pre-Training
+[
+  [unpubished](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)
+  |
+  [GPT1]
+]
