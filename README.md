@@ -248,3 +248,17 @@ Improving Language Understanding by Generative Pre-Training
   |
   [GPT1]
 ]
+
+Language Models are Unsupervised Multitask Learners
+[
+  [unpublished](https://life-extension.github.io/2020/05/27/GPT%E6%8A%80%E6%9C%AF%E5%88%9D%E6%8E%A2/language-models.pdf)
+  |
+  [GPT2]
+]
+
+Language Models are Few-Shot Learners
+[
+  [NIPS 2020](https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
+  |
+  [GPT3]
+]
