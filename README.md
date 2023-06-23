@@ -262,3 +262,11 @@ Language Models are Few-Shot Learners
   |
   [GPT3]
 ]
+
+# Multi-View Image/Video Compression
+LDMIC: Learning-based Distributed Multi-view Image Coding
+[
+  [ICLR 2023](https://arxiv.org/pdf/2301.09799.pdf)
+  |
+  [LDMIC](https://github.com/Xinjie-Q/LDMIC)
+]
