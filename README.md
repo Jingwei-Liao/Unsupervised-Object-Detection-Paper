@@ -241,6 +241,13 @@ Automatic dense annotation of large-vocabulary sign language videos
   []()
 ]
 
+Visual Programming: Compositional visual reasoning without training
+[
+  [CVPR 2023 best paper](https://arxiv.org/pdf/2211.11559.pdf)
+  |
+  [VISPROG](https://github.com/allenai/visprog)
+]
+
 # Generative Pre-Training
 Improving Language Understanding by Generative Pre-Training
 [
