@@ -248,6 +248,13 @@ Visual Programming: Compositional visual reasoning without training
   [VISPROG](https://github.com/allenai/visprog)
 ]
 
+MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models
+[
+  [arxiv 2023](https://arxiv.org/pdf/2304.10592.pdf)
+  |
+  [miniGPT](https://github.com/Vision-CAIR/MiniGPT-4)
+]
+
 # Generative Pre-Training
 Improving Language Understanding by Generative Pre-Training
 [
