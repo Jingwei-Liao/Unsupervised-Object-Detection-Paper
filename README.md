@@ -255,7 +255,27 @@ MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language 
   [miniGPT](https://github.com/Vision-CAIR/MiniGPT-4)
 ]
 
-# Generative Pre-Training
+ViperGPT: Visual Inference via Python Execution for Reasoning
+[
+  [arxiv 2023](https://arxiv.org/pdf/2303.08128.pdf)
+  |
+  [ViperGPT]()
+]
+
+Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models
+[
+  [arxiv 2023](https://arxiv.org/pdf/2304.09842.pdf)
+  |
+  [Chameleon](https://github.com/lupantech/chameleon-llm)
+]
+
+LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model
+[
+  [arxiv 2023](https://arxiv.org/pdf/2304.15010.pdf)
+  |
+  [LLaMA-Adapter V2](https://github.com/ZrrSkywalker/LLaMA-Adapter)
+]
+
 Improving Language Understanding by Generative Pre-Training
 [
   [unpubished](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)
