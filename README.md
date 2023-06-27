@@ -284,3 +284,25 @@ LDMIC: Learning-based Distributed Multi-view Image Coding
   |
   [LDMIC](https://github.com/Xinjie-Q/LDMIC)
 ]
+
+# Multi-View Dataset
+InStereo2K: a large real dataset for stereo matching in indoor scenes
+[
+  [Sci China Inf Sci 2020](https://link.springer.com/article/10.1007/s11432-019-2803-x)
+  |
+  [InStereo2K](https://github.com/yuhuaxu/stereodataset)
+]
+
+The cityscapes dataset for semantic urban scene understanding
+[
+  [CVPR 2016](https://openaccess.thecvf.com/content_cvpr_2016/papers/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.pdf)
+  |
+  [Cityscapes](https://www.cityscapes-dataset.com/)
+]
+
+WILDTRACK: A Multi-Camera HD Dataset for Dense Unscripted Pedestrian Detection
+[
+  [CVPR 2018](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chavdarova_WILDTRACK_A_Multi-Camera_CVPR_2018_paper.pdf)
+  |
+  [WILDTRACK](https://www.epfl.ch/labs/cvlab/data/data-wildtrack/)
+]
