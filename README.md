@@ -178,6 +178,13 @@ Delving into Shape-aware Zero-shot Semantic Segmentation
   [SAZS](https://github.com/Liuxinyv/SAZS)
 ]
 
+Robust Region Feature Synthesizer for Zero-Shot Object Detection
+[
+  [CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Robust_Region_Feature_Synthesizer_for_Zero-Shot_Object_Detection_CVPR_2022_paper.pdf)
+  |
+  [None]()
+]
+
 # Self-Supervision
 Emerging Properties in Self-Supervised Vision Transformers
 [
