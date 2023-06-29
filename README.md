@@ -171,6 +171,13 @@ Primitive Generation and Semantic-related Alignment for Universal Zero-Shot Segm
   [PADing](https://github.com/heshuting555/PADing)
 ]
 
+Delving into Shape-aware Zero-shot Semantic Segmentation
+[
+  [CVPR 2023](https://arxiv.org/pdf/2304.08491.pdf)
+  |
+  [SAZS](https://github.com/Liuxinyv/SAZS)
+]
+
 # Self-Supervision
 Emerging Properties in Self-Supervised Vision Transformers
 [
