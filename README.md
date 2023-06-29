@@ -164,6 +164,13 @@ ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation
   [ZegCLIP](https://github.com/ZiqinZhou66/ZegCLIP)
 ]
 
+Primitive Generation and Semantic-related Alignment for Universal Zero-Shot Segmentation
+[
+  [CVPR 2023](https://arxiv.org/pdf/2306.11087.pdf)
+  |
+  [PADing](https://github.com/heshuting555/PADing)
+]
+
 # Self-Supervision
 Emerging Properties in Self-Supervised Vision Transformers
 [
