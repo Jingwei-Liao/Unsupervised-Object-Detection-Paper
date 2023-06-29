@@ -305,6 +305,13 @@ LDMIC: Learning-based Distributed Multi-view Image Coding
   [LDMIC](https://github.com/Xinjie-Q/LDMIC)
 ]
 
+Low-complexity Deep Video Compression with A Distributed Coding Architecture
+[
+  [ICME 2023](https://arxiv.org/pdf/2303.11599.pdf)
+  |
+  [Distributed-DVC](https://github.com/Xinjie-Q/Distributed-DVC)
+]
+
 # Multi-View Dataset
 InStereo2K: a large real dataset for stereo matching in indoor scenes
 [
