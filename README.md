@@ -156,6 +156,14 @@ Exemplar-FreeSOLO: Enhancing Unsupervised Instance Segmentation with Exemplars
   [None]
 ]
 
+# Zero-shot task
+ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation
+[
+  [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_ZegCLIP_Towards_Adapting_CLIP_for_Zero-Shot_Semantic_Segmentation_CVPR_2023_paper.pdf)
+  |
+  [ZegCLIP](https://github.com/ZiqinZhou66/ZegCLIP)
+]
+
 # Self-Supervision
 Emerging Properties in Self-Supervised Vision Transformers
 [
