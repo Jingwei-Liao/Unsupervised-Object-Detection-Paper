@@ -156,6 +156,14 @@ Exemplar-FreeSOLO: Enhancing Unsupervised Instance Segmentation with Exemplars
   [None]
 ]
 
+# Language & Detection
+Aligning Bag of Regions for Open-Vocabulary Object Detection
+[
+  [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Aligning_Bag_of_Regions_for_Open-Vocabulary_Object_Detection_CVPR_2023_paper.pdf)
+  |
+  [OVDet](https://github.com/wusize/ovdet)
+]
+
 # Zero-shot task
 ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation
 [
