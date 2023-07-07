@@ -157,12 +157,29 @@ Exemplar-FreeSOLO: Enhancing Unsupervised Instance Segmentation with Exemplars
 ]
 
 # Language & Detection
+
+Open-Vocabulary Object Detection Using Captions
+[
+  [CVPR 2022](https://arxiv.org/pdf/2011.10678.pdf)
+  |
+  [OVR-CNN](https://github.com/alirezazareian/ovr-cnn)
+]
+
+Open-vocabulary Object Detection via Vision and Language Knowledge Distillation
+[
+  [ICLR 2022](https://arxiv.org/pdf/2104.13921.pdf)
+  |
+  [ViLD](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)
+]
+
 Aligning Bag of Regions for Open-Vocabulary Object Detection
 [
   [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Aligning_Bag_of_Regions_for_Open-Vocabulary_Object_Detection_CVPR_2023_paper.pdf)
   |
   [OVDet](https://github.com/wusize/ovdet)
 ]
+
+
 
 # Zero-shot task
 ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation
